@@ -108,7 +108,7 @@ def main():
                 max_value=1.0,
                 value=None,
                 step=0.001,
-                 format="%.3f"
+                 format="%.3f",
                 key="time_step"
             )
             descent_angle = st.number_input(
